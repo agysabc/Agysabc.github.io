@@ -4,13 +4,13 @@ Author URL: http://w3layouts.com
 License: Creative Commons Attribution 3.0 Unported
 License URL: http://creativecommons.org/licenses/by/3.0/
 --*/
-/*-- header --*/
+/*-- 标头 --*/
 html,body {
 	font-family: 'Raleway', sans-serif;
 	background:#FFF;
 	font-size:100%;
 }
-/*-- header --*/
+/*-- 标头 --*/
 .head-bg{
 	background:url(../https://i.niupic.com/images/2019/11/25/_408.jpg) no-repeat 0px 0px;
 	background-size: cover;
@@ -110,7 +110,7 @@ html,body {
 	-o-border-radius: 3px;
 	-ms-border-radius: 3px;
 }
-/* Button 1e */
+/* 按钮1e */
 .btn-1e {
 	overflow: hidden;
 }
@@ -129,7 +129,7 @@ html,body {
 .btn-1e:hover,
 .btn-1e:active {
 	color: #E74C3C;
-	background: url(../images/arrowhr.png) no-repeat 157px 21px;
+	background: url(../https://i.niupic.com/images/2019/11/25/_945.png) no-repeat 157px 21px;
 }
 .btn-1e:hover:after {
 	height: 260%;
@@ -142,7 +142,7 @@ html,body {
 .button img{
 	margin-left:1em;
 }
-/*-- Slider Part starts Here--*/
+/*-- 滑块部分从这里开始--*/
 #slider2,
 #slider3 {
   box-shadow: none;
@@ -241,7 +241,7 @@ html,body {
 	text-decoration: none;
 	height: 61px;
 	width: 30px;
-	background: transparent url("../images/themes.png") no-repeat left top;
+	background: transparent url("../https://i.niupic.com/images/2019/11/25/_951.png") no-repeat left top;
 	margin-top: -65px;
 }
 .callbacks_nav:active {
@@ -333,7 +333,7 @@ ul.callbacks_tabs.callbacks2_tabs {
   height:25px;
   width:23px;
   display:inline-block;
-  background: url(../images/line1.png) no-repeat -2px 0px;
+  background: url(../https://i.niupic.com/images/2019/11/25/_958.png) no-repeat -2px 0px;
   position: absolute;
   top: 27px;
 }
@@ -352,7 +352,7 @@ ul.callbacks_tabs.callbacks2_tabs {
   height:25px;
   width:26px;
   display:inline-block;
-  background: url(../images/white.png) no-repeat 0px 0px;
+  background: url(../https://i.niupic.com/images/2019/11/25/_965.png) no-repeat 0px 0px;
 }
 .callbacks_tabs li:nth-child(1) a:before{
 	content:none;
@@ -369,15 +369,16 @@ ul.callbacks_tabs.callbacks2_tabs {
 	left: 8px;
  }
 .callbacks_here a:after{
-	 background: url(../images/red.png) no-repeat 0px 0px;
+	 background: url(../https://i.niupic.com/images/2019/11/25/_1285.png
+) no-repeat 0px 0px;
 }
-/*-- agency --*/
+/*-- 正 --*/
 .agency{
 	padding: 7em 0;
 	background: #F7F7F7;
 }
 .agency-left {
-	background: url(../images/hr.png) no-repeat 1px 47px;
+	background: url(../https://i.niupic.com/images/2019/11/25/_971.png) no-repeat 1px 47px;
 	float: left;
 	width: 30%;
 	margin-left: 15em;
@@ -416,7 +417,7 @@ ul.callbacks_tabs.callbacks2_tabs {
 	font-family: inherit;
 	font-size: 21px;
 	color: #FFF;
-	background: url(../images/arrow.png) no-repeat 205px  21px #E74C3C;
+	background: url(../https://i.niupic.com/images/2019/11/25/_937.png) no-repeat 205px  21px #E74C3C;
 	cursor: pointer;
 	padding: .5em 3em .5em 1em;
 	display: inline-block;
@@ -436,13 +437,13 @@ ul.callbacks_tabs.callbacks2_tabs {
 }
 .button-red:hover{
 	border: 1px solid #E74C3C;
-	background: url(../images/arrowhr.png) no-repeat 205px  21px;
+	background: url(../https://i.niupic.com/images/2019/11/25/_945.png) no-repeat 205px  21px;
 	color:#E74C3C;
 }
 .agency-right img {
 	width: 100%;
 }
-/*-- services --*/
+/*-- 服务 --*/
 .services{
 	padding: 6em 0;
 }
@@ -457,7 +458,7 @@ ul.callbacks_tabs.callbacks2_tabs {
 	font-weight: 900;
 	margin: 0;
 	padding-bottom: 1em;
-	background: url(../images/hr.png) no-repeat 410px 53px;
+	background: url(../https://i.niupic.com/images/2019/11/25/_971.png) no-repeat 410px 53px;
 }
 .services-info span{
 	color:#E74C3C;
@@ -517,9 +518,9 @@ ul.callbacks_tabs.callbacks2_tabs {
 	width: 30%;
 	height: 1px;
 }
-/*-- services-bottom --*/
+/*-- 服务底部 --*/
 .services-bottom{
-	background:url(../images/sr-bottom.jpg) no-repeat 0px 0px;
+	background:url(../https://i.niupic.com/images/2019/11/25/_416.jpg) no-repeat 0px 0px;
 	background-size:cover;
 	min-height:349px;
 }
@@ -563,7 +564,7 @@ span.line-anchor {
 	text-align: center;
 	margin-top: 3em;
 }
-/*-- work --*/
+/*-- 工作 --*/
 .work{
 	padding: 6em 0;
 	background:#F7F7F7;
@@ -580,7 +581,7 @@ span.line-anchor {
 	font-weight: 900;
 	margin: 0;
 	padding-bottom: 1em;
-	background: url(../images/hr.png) no-repeat 410px 53px;
+	background: url(../https://i.niupic.com/images/2019/11/25/_971.png) no-repeat 410px 53px;
 }
 .work-info span {
 	color: #E74C3C;
@@ -609,7 +610,7 @@ span.line-anchor {
 	text-align: center;
 }
 .caption span {
-	background: url(../images/link.png) no-repeat;
+	background: url(../https://i.niupic.com/images/2019/11/25/_983.png) no-repeat;
 	width: 101px;
 	height: 102px;
 	display: block;
@@ -629,12 +630,12 @@ span.line-anchor {
 .view {
 	padding: .5em 2.5em .5em 1em;
 	margin: 3em 0 0em 0;
-	background: url(../images/arrow.png) no-repeat 152px 21px #E74C3C;
+	background: url(../https://i.niupic.com/images/2019/11/25/_937.png) no-repeat 152px 21px #E74C3C;
 }
 .view:hover {
-	background: url(../images/arrowhr.png) no-repeat 152px 21px;
+	background: url(../https://i.niupic.com/images/2019/11/25/_945.png) no-repeat 152px 21px;
 }
-/*-- blog --*/
+/*-- 博客 --*/
 .blog{
 	padding:6em 0;
 	text-align: center;
@@ -650,7 +651,7 @@ span.line-anchor {
 	font-weight: 900;
 	margin: 0;
 	padding-bottom: 1em;
-	background: url(../images/hr.png) no-repeat 410px 53px;
+	background: url(../https://i.niupic.com/images/2019/11/25/_971.png) no-repeat 410px 53px;
 }
 .blog-info span {
 	color: #E74C3C;
@@ -707,7 +708,7 @@ span.line-anchor {
 	background:#ECECEC;
 }
 .partners{
-		background:url(../images/snow.jpg) no-repeat 0px 0px;
+		background:url(../https://i.niupic.com/images/2019/11/25/_421.jpg) no-repeat 0px 0px;
 		background-size:cover;
 		padding: 6em 0;
 }
@@ -716,7 +717,7 @@ span.line-anchor {
 	width: 16.66%;
 	text-align: center;
 }
-/*-- address --*/
+/*-- 地址 --*/
 .address{
 	background:#E74C3C;
 	padding: 2em 0;
@@ -809,7 +810,7 @@ span.line-anchor {
 	-o-transition: .5s all;
 	-ms-transition: .5s all;
 }
-/*-- quote --*/
+/*-- 引用 --*/
 .quote{
 	text-align: center
 }
@@ -833,7 +834,7 @@ span.line-anchor {
 	-o-transition: .5s all;
 	-ms-transition: .5s all;
 }
-/*-- footer-top --*/
+/*-- 页脚顶部 --*/
 .footer-top{
 	background:#1C2230;
 	padding: 3em 0;
@@ -850,13 +851,15 @@ span.line-anchor {
 	margin: 0 2em;
 }
 .icons ul li a.facebook {
-	background: url(../images/social-icons.png) no-repeat 0px 0px;
+	background: url(../https://i.niupic.com/images/2019/11/25/_1299.png
+) no-repeat 0px 0px;
 	width: 20px;
 	height: 37px;
 	display: block;
 }
 .icons ul li a.facebook:hover{
-	background: url(../images/social-iconshr.png) no-repeat 0px 0px;
+	background: url(../https://i.niupic.com/images/2019/11/25/_1301.png
+) no-repeat 0px 0px;
 	transition: 0.5s;
 	-webkit-transition: 0.5s;
 	-moz-transition: 0.5s;
@@ -864,13 +867,13 @@ span.line-anchor {
 	-ms-transition: 0.5s;
 }
 .icons ul li a.instagram {
-	background: url(../images/social-icons.png) no-repeat -27px 0px;
+	background: url(../https://i.niupic.com/images/2019/11/25/_1299.png) no-repeat -27px 0px;
 	width: 31px;
 	height: 37px;
 	display: block;
 }
 .icons ul li a.instagram:hover{
-	background: url(../images/social-iconshr.png) no-repeat -27px 0px;
+	background: url(../https://i.niupic.com/images/2019/11/25/_1301.png) no-repeat -27px 0px;
 	transition: 0.5s;
 	-webkit-transition: 0.5s;
 	-moz-transition: 0.5s;
@@ -878,13 +881,13 @@ span.line-anchor {
 	-ms-transition: 0.5s;
 }
 .icons ul li a.behance {
-	background: url(../images/social-icons.png) no-repeat -71px 0px;
+	background: url(../https://i.niupic.com/images/2019/11/25/_1299.png) no-repeat -71px 0px;
 	width: 34px;
 	height: 37px;
 	display: block;
 }
 .icons ul li a.behance:hover {
-	background: url(../images/social-iconshr.png) no-repeat -71px 0px;
+	background: url(../https://i.niupic.com/images/2019/11/25/_1301.png) no-repeat -71px 0px;
 	transition: 0.5s;
 	-webkit-transition: 0.5s;
 	-moz-transition: 0.5s;
@@ -892,13 +895,13 @@ span.line-anchor {
 	-ms-transition: 0.5s;
 }
 .icons ul li a.chrome {
-	background: url(../images/social-icons.png) no-repeat -111px 0px;
+	background: url(../https://i.niupic.com/images/2019/11/25/_1299.png) no-repeat -111px 0px;
 	width: 34px;
 	height: 37px;
 	display: block;
 }
 .icons ul li a.chrome:hover {
-	background: url(../images/social-iconshr.png) no-repeat -111px 0px;
+	background: url(../https://i.niupic.com/images/2019/11/25/_1301.png) no-repeat -111px 0px;
 	transition: 0.5s;
 	-webkit-transition: 0.5s;
 	-moz-transition: 0.5s;
@@ -906,13 +909,13 @@ span.line-anchor {
 	-ms-transition: 0.5s;
 }
 .icons ul li a.twitter {
-	background: url(../images/social-icons.png) no-repeat -151px 0px;
+	background: url(../https://i.niupic.com/images/2019/11/25/_1299.png) no-repeat -151px 0px;
 	width: 34px;
 	height: 37px;
 	display: block;
 }
 .icons ul li a.twitter:hover {
-	background: url(../images/social-iconshr.png) no-repeat -151px 0px;
+	background: url(../https://i.niupic.com/images/2019/11/25/_1301.png) no-repeat -151px 0px;
 	transition: 0.5s;
 	-webkit-transition: 0.5s;
 	-moz-transition: 0.5s;
@@ -920,20 +923,20 @@ span.line-anchor {
 	-ms-transition: 0.5s;
 }
 .icons ul li a.dribble {
-	background: url(../images/social-icons.png) no-repeat -194px 0px;
+	background: url(../https://i.niupic.com/images/2019/11/25/_1299.png) no-repeat -194px 0px;
 	width: 34px;
 	height: 37px;
 	display: block;
 }
 .icons ul li a.dribble:hover {
-	background: url(../images/social-iconshr.png) no-repeat -194px 0px;
+	background: url(../https://i.niupic.com/images/2019/11/25/_1301.png) no-repeat -194px 0px;
 	transition: 0.5s;
 	-webkit-transition: 0.5s;
 	-moz-transition: 0.5s;
 	-o-transition: 0.5s;
 	-ms-transition: 0.5s;
 }
-/*-- footer-bottom --*/
+/*-- 页脚底部 --*/
 .footer-bottom{
 	background: #E9E9E9;
 	padding:2em 0;
@@ -968,7 +971,7 @@ span.line-anchor {
 	-o-transition: 0.5s;
 	-ms-transition: 0.5s;
 }
-/*-- to-top --*/
+/*-- 到达顶点 --*/
 #toTop {
 	display: none;
 	text-decoration: none;
@@ -981,7 +984,7 @@ span.line-anchor {
 	height: 24px;
 	border: none;
 	text-indent: 100%;
-	background: url("../images/up-arrow.png") no-repeat 0px 0px;
+	background: url("../https://i.niupic.com/images/2019/11/25/_989.png") no-repeat 0px 0px;
 }
 #toTopHover {
 	width: 40px;
@@ -996,7 +999,7 @@ span.line-anchor {
 span.menu {
 	display: none;
 }
-/*-- responsive-design --*/
+/*-- 响应式设计 --*/
 @media (max-width:1440px)
 {
 	.agency-left {
@@ -1064,7 +1067,7 @@ span.menu {
 		padding-bottom: .7em;
 	}
 	.agency-left {
-		background: url(../images/hr.png) no-repeat 1px 34px;
+		background: url(../https://i.niupic.com/images/2019/11/25/_971.png) no-repeat 1px 34px;
 		width: 34%;
 	}
 	.agency-left h4 {
@@ -1076,16 +1079,16 @@ span.menu {
 	}
 	.button-red {
 		font-size: 18px;
-		background: url(../images/arrow.png) no-repeat 169px 16px #E74C3C;
+		background: url(../https://i.niupic.com/images/2019/11/25/_937.png) no-repeat 169px 16px #E74C3C;
 	}
 	.button-red:hover {
-		background: url(../images/arrowhr.png) no-repeat 169px 16px;
+		background: url(../https://i.niupic.com/images/2019/11/25/_945.png) no-repeat 169px 16px;
 	}
 	.services {
 		padding: 4em 0;
 	}
 	.services-info h3 {
-		background: url(../images/hr.png) no-repeat 322px 53px;
+		background: url(../https://i.niupic.com/images/2019/11/25/_971.png) no-repeat 322px 53px;
 	}
 	.service-grid-bg {
 		height: 166px;
@@ -1116,22 +1119,22 @@ span.menu {
 		margin: 4em auto;
 	}
 	.view {
-		background: url(../images/arrow.png) no-repeat 128px 16px #E74C3C;
+		background: url(../https://i.niupic.com/images/2019/11/25/_937.png) no-repeat 128px 16px #E74C3C;
 	}
 	.view:hover {
-		background: url(../images/arrowhr.png) no-repeat 128px 16px;
+		background: url(../https://i.niupic.com/images/2019/11/25/_945.png) no-repeat 128px 16px;
 	}
 	.work {
 		padding: 4em 0;
 	}
 	.work-info h3 {
-		background: url(../images/hr.png) no-repeat 326px 53px;
+		background: url(../https://i.niupic.com/images/2019/11/25/_971.png) no-repeat 326px 53px;
 	}
 	.blog {
 		padding: 4em 0;
 	}
 	.blog-info h3 {
-		background: url(../images/hr.png) no-repeat 326px 53px;
+		background: url(../https://i.niupic.com/images/2019/11/25/_971.png) no-repeat 326px 53px;
 	}
 	.blog-info-grid-text h5 {
 		font-size: 18px;
@@ -1218,10 +1221,10 @@ span.menu {
 	.button {
 		margin: 3em 0 1em .1em;
 		font-size: 18px;
-		background: url(../images/arrow.png) no-repeat 136px 16px;
+		background: url(../https://i.niupic.com/images/2019/11/25/_937.png) no-repeat 136px 16px;
 	}
 	.btn-1e:hover, .btn-1e:active {
-		background: url(../images/arrowhr.png) no-repeat 136px 16px;
+		background: url(../https://i.niupic.com/images/2019/11/25/_945.png) no-repeat 136px 16px;
 	}
 	.head-bg {
 		min-height: 496px;
@@ -1243,7 +1246,7 @@ span.menu {
 		margin:0;
 	}
 	.button-red:hover {
-		background: url(../images/arrowhr.png) no-repeat 169px 16px;
+		background: url(../https://i.niupic.com/images/2019/11/25/_945.png) no-repeat 169px 16px;
 	}
 	.agency {
 		padding: 2em 0;
@@ -1253,14 +1256,14 @@ span.menu {
 		width: 100%;
 	}
 	.agency-left {
-		background: url(../images/hr.png) no-repeat 320px 32px;
+		background: url(../https://i.niupic.com/images/2019/11/25/_971.png) no-repeat 320px 32px;
 	}
 	.services {
 		padding: 2em 0 0 0;
 	}
 	.services-info h3 {
 		font-size: 26px;
-		background: url(../images/hr.png) no-repeat 234px 31px;
+		background: url(../https://i.niupic.com/images/2019/11/25/_971.png) no-repeat 234px 31px;
 	}
 	.services-info p {
 		margin: 0.5em 0 4em 0;
@@ -1288,7 +1291,7 @@ span.menu {
 		padding: 2em 0;
 	}
 	.work-info h3 {
-		background: url(../images/hr.png) no-repeat 234px 31px;
+		background: url(../https://i.niupic.com/images/2019/11/25/_971.png) no-repeat 234px 31px;
 		font-size: 26px;
 	}
 	.services-bottom-text {
@@ -1305,18 +1308,18 @@ span.menu {
 		margin: 0 auto;
 	}
 	.view {
-		background: url(../images/arrow.png) no-repeat 128px 16px #E74C3C;
+		background: url(../https://i.niupic.com/images/2019/11/25/_937.png) no-repeat 128px 16px #E74C3C;
 		margin: 1em 0 0em 0;
 	}
 	.view:hover{
-		background: url(../images/arrowhr.png) no-repeat 128px 16px;
+		background: url(../https://i.niupic.com/images/2019/11/25/_945.png) no-repeat 128px 16px;
 	}
 	.blog {
 		padding: 2em 0;
 	}
 	.blog-info h3 {
 		font-size: 26px;
-		background: url(../images/hr.png) no-repeat 234px 31px;
+		background: url(../https://i.niupic.com/images/2019/11/25/_971.png) no-repeat 234px 31px;
 	}
 	.blog-info p {
 		margin: 0.5em 0 1em 0;
@@ -1387,7 +1390,7 @@ span.menu {
 		margin: 1em 0 1em 0;
 	}
 	.agency-left {
-		background: url(../images/hr.png) no-repeat 258px 32px;
+		background: url(../https://i.niupic.com/images/2019/11/25/_971.png) no-repeat 258px 32px;
 	}
 	.agency-left h4 {
 		font-size: 17px;
@@ -1397,13 +1400,13 @@ span.menu {
 		margin-left: 5.3em;
 	}
 	.services-info h3 {
-		background: url(../images/hr.png) no-repeat 194px 31px;
+		background: url(../https://i.niupic.com/images/2019/11/25/_971.png) no-repeat 194px 31px;
 	}
 	.callbacks_tabs {
 		left: 34%;
 	}
 	.work-info h3 {
-		background: url(../images/hr.png) no-repeat 188px 31px;
+		background: url(../https://i.niupic.com/images/2019/11/25/_971.png) no-repeat 188px 31px;
 	}
 	.blog-info-grid-text p {
 		overflow: hidden;
@@ -1453,7 +1456,7 @@ span.menu {
 		padding: 1em 0;
 	}
 	.agency-left {
-		background: url(../images/hr.png) no-repeat 180px 32px;
+		background: url(../https://i.niupic.com/images/2019/11/25/_971.png) no-repeat 180px 32px;
 	}
 	.agency-left h4 {
 		width: 78%;
@@ -1469,7 +1472,7 @@ span.menu {
 		padding: 1em 0 0 0;
 	}
 	.services-info h3 {
-		background: url(../images/hr.png) no-repeat 120px 31px;
+		background: url(../https://i.niupic.com/images/2019/11/25/_971.png) no-repeat 120px 31px;
 	}
 	.services-info p {
 		overflow: hidden;
@@ -1506,7 +1509,7 @@ span.menu {
 		padding: 1em 0;
 	}
 	.work-info h3 {
-		background: url(../images/hr.png) no-repeat 128px 31px;
+		background: url(../https://i.niupic.com/images/2019/11/25/_971.png) no-repeat 128px 31px;
 	}
 	.work-info p {
 		margin: 0.5em 0 1em 0;
@@ -1521,19 +1524,19 @@ span.menu {
 		margin: 1em 0 1em 0;
 		padding: .5em 2em .5em 1em;
 		font-size: 14px;
-		background: url(../images/arrow.png) no-repeat 128px 11px #E74C3C;
+		background: url(../https://i.niupic.com/images/2019/11/25/_937.png) no-repeat 128px 11px #E74C3C;
 	}
 	.button-red:hover {
-		background: url(../images/arrowhr.png) no-repeat 128px 11px;
+		background: url(../https://i.niupic.com/images/2019/11/25/_945.png) no-repeat 128px 11px;
 	}
 	.view {
-		background: url(../images/arrow.png) no-repeat 97px 13px #E74C3C;
+		background: url(../https://i.niupic.com/images/2019/11/25/_937.png) no-repeat 97px 13px #E74C3C;
 	}
 	.view:hover {
-		background: url(../images/arrowhr.png) no-repeat 97px 13px;
+		background: url(../https://i.niupic.com/images/2019/11/25/_945.png) no-repeat 97px 13px;
 	}
 	.blog-info h3 {
-		background: url(../images/hr.png) no-repeat 125px 31px;
+		background: url(../https://i.niupic.com/images/2019/11/25/_971.png) no-repeat 125px 31px;
 	}	
 	.blog-info p {
 		overflow: hidden;
@@ -1599,63 +1602,63 @@ span.menu {
 		margin: 0 .5em;
 	}
 	.icons ul li a.facebook {
-		background: url(../images/social-icons.png) no-repeat 4px 0px;
+		background: url(../https://i.niupic.com/images/2019/11/25/_1299.png) no-repeat 4px 0px;
 		width: 20px;
 		height: 26px;
 		background-size: 740%;
 	}
 	.icons ul li a.facebook:hover {
-		background: url(../images/social-iconshr.png) no-repeat 4px 0px;
+		background: url(../https://i.niupic.com/images/2019/11/25/_1301.png) no-repeat 4px 0px;
 		background-size: 740%;
 	}
 	.icons ul li a.instagram {
-		background: url(../images/social-icons.png) no-repeat -23px 0px;
+		background: url(../https://i.niupic.com/images/2019/11/25/_1299.png) no-repeat -23px 0px;
 		width: 28px;
 		height: 30px;
 		background-size: 740%;	
 	}
 	.icons ul li a.instagram:hover {
-		background: url(../images/social-iconshr.png) no-repeat -23px 0px;
+		background: url(../https://i.niupic.com/images/2019/11/25/_1301.png) no-repeat -23px 0px;
 		background-size: 740%;
 	}
 	.icons ul li a.behance {
-		background: url(../images/social-icons.png) no-repeat -70px 0px;
+		background: url(../https://i.niupic.com/images/2019/11/25/_1299.png) no-repeat -70px 0px;
 		width: 31px;
 		height: 33px;
 		background-size: 740%;
 	}
 	.icons ul li a.behance:hover {
-		background: url(../images/social-iconshr.png) no-repeat -70px 0px;
+		background: url(../https://i.niupic.com/images/2019/11/25/_1301.png) no-repeat -70px 0px;
 		background-size: 740%;
 	}
 	.icons ul li a.chrome {
-		background: url(../images/social-icons.png) no-repeat -107px 0px;
+		background: url(../https://i.niupic.com/images/2019/11/25/_1299.png) no-repeat -107px 0px;
 		width: 31px;
 		height: 33px;
 		background-size: 740%;
 	}
 	.icons ul li a.chrome:hover {
-		background: url(../images/social-iconshr.png) no-repeat -107px 0px;
+		background: url(../https://i.niupic.com/images/2019/11/25/_1301.png) no-repeat -107px 0px;
 		background-size: 740%;
 	}
 	.icons ul li a.twitter {
-		background: url(../images/social-icons.png) no-repeat -150px 0px;
+		background: url(../https://i.niupic.com/images/2019/11/25/_1299.png) no-repeat -150px 0px;
 		width: 32px;
 		height: 33px;
 		background-size: 740%;
 	}
 	.icons ul li a.twitter:hover {
-		background: url(../images/social-iconshr.png) no-repeat -150px 0px;
+		background: url(../https://i.niupic.com/images/2019/11/25/_1301.png) no-repeat -150px 0px;
 		background-size: 740%;
 	}
 	.icons ul li a.dribble {
-		background: url(../images/social-icons.png) no-repeat -194px 0px;
+		background: url(../https://i.niupic.com/images/2019/11/25/_1299.png) no-repeat -194px 0px;
 		width: 32px;
 		height: 33px;
 		background-size: 740%;
 	}
 	.icons ul li a.dribble:hover {
-		background: url(../images/social-iconshr.png) no-repeat -194px 0px;
+		background: url(../https://i.niupic.com/images/2019/11/25/_1301.png) no-repeat -194px 0px;
 		background-size: 740%;
 	}
 	.partners {
@@ -1698,7 +1701,7 @@ span.menu {
 	.callbacks_nav {
 		height: 26px;
 		width: 29px;
-		background: transparent url("../images/themes.png") no-repeat 14px 0px;
+		background: transparent url("../https://i.niupic.com/images/2019/11/25/_951.png") no-repeat 14px 0px;
 		background-size: 100%;
 		left: -20px;
 		top: 105%;
@@ -1710,10 +1713,10 @@ span.menu {
 	.button {
 		margin: 1em 0 0em .1em;
 		font-size: 14px;
-		background: url(../images/arrow.png) no-repeat 99px 12px;
+		background: url(../https://i.niupic.com/images/2019/11/25/_937.png) no-repeat 99px 12px;
 	}
 	.btn-1e:hover, .btn-1e:active {
-		background: url(../images/arrowhr.png) no-repeat 99px 12px;
+		background: url(../https://i.niupic.com/images/2019/11/25/_945.png) no-repeat 99px 12px;
 	}
 	.head-info p {
 		height: 22px;
@@ -1729,7 +1732,7 @@ span.menu {
 		font-size: 20px;
 	}
 	.agency-left {
-		background: url(../images/hr.png) no-repeat 104px 26px;
+		background: url(../https://i.niupic.com/images/2019/11/25/_971.png) no-repeat 104px 26px;
 	}
 	.agency-left h4 {
 		width: 95%;
@@ -1737,7 +1740,7 @@ span.menu {
 		height: 42px;
 	}
 	.work-info h3 {
-		background: url(../images/hr.png) no-repeat 68px 27px;
+		background: url(../https://i.niupic.com/images/2019/11/25/_971.png) no-repeat 68px 27px;
 		font-size: 20px;
 	}
 	.agency-left p {
@@ -1746,7 +1749,7 @@ span.menu {
 	}
 	.services-info h3 {
 		font-size: 20px;
-		background: url(../images/hr.png) no-repeat 62px 27px;
+		background: url(../https://i.niupic.com/images/2019/11/25/_971.png) no-repeat 62px 27px;
 	}
 	.services-info p {
 		margin: 0.5em 0 3em 0;
@@ -1793,7 +1796,7 @@ span.menu {
 		min-height: 157px;
 	}
 	.blog-info h3 {
-		background: url(../images/hr.png) no-repeat 62px 25px;
+		background: url(../https://i.niupic.com/images/2019/11/25/_971.png) no-repeat 62px 25px;
 		font-size: 20px;
 	}
 	.blog-info p {
@@ -1853,63 +1856,63 @@ span.menu {
 		font-size: 16px;
 	}
 	.icons ul li a.facebook {
-		background: url(../images/social-icons.png) no-repeat 2px 0px;
+		background: url(../https://i.niupic.com/images/2019/11/25/_1299.png) no-repeat 2px 0px;
 		width: 16px;
 		height: 20px;
 		background-size: 740%;
 	}
 	.icons ul li a.facebook:hover {
-		background: url(../images/social-iconshr.png) no-repeat 2px 0px;
+		background: url(../https://i.niupic.com/images/2019/11/25/_1301.png) no-repeat 2px 0px;
 		background-size: 740%;
 	}
 	.icons ul li a.instagram {
-		background: url(../images/social-icons.png) no-repeat -18px 0px;
+		background: url(../https://i.niupic.com/images/2019/11/25/_1299.png) no-repeat -18px 0px;
 		width: 22px;
 		height: 23px;
 		background-size: 740%;
 	}
 	.icons ul li a.instagram:hover {
-		background: url(../images/social-iconshr.png) no-repeat -18px 0px;
+		background: url(../https://i.niupic.com/images/2019/11/25/_1301.png) no-repeat -18px 0px;
 		background-size: 740%;
 	}
 	.icons ul li a.behance {
-		background: url(../images/social-icons.png) no-repeat -63px -4px;
+		background: url(../https://i.niupic.com/images/2019/11/25/_1299.png) no-repeat -63px -4px;
 		width: 29px;
 		height: 22px;
 		background-size: 713%;
 	}
 	.icons ul li a.behance:hover {
-		background: url(../images/social-iconshr.png) no-repeat -63px -4px;
+		background: url(../https://i.niupic.com/images/2019/11/25/_1301.png) no-repeat -63px -4px;
 		background-size: 713%;
 	}
 	.icons ul li a.chrome {
-		background: url(../images/social-icons.png) no-repeat -76px 0px;
+		background: url(../https://i.niupic.com/images/2019/11/25/_1299.png) no-repeat -76px 0px;
 		width: 25px;
 		height: 24px;
 		background-size: 656%;
 	}
 	.icons ul li a.chrome:hover {
-		background: url(../images/social-iconshr.png) no-repeat -76px 0px;
+		background: url(../https://i.niupic.com/images/2019/11/25/_1301.png) no-repeat -76px 0px;
 		background-size: 656%;
 	}
 	.icons ul li a.twitter {
-		background: url(../images/social-icons.png) no-repeat -117px 0px;
+		background: url(../https://i.niupic.com/images/2019/11/25/_1299.png) no-repeat -117px 0px;
 		width: 26px;
 		height: 27px;
 		background-size: 711%;
 	}
 	.icons ul li a.twitter:hover {
-		background: url(../images/social-iconshr.png) no-repeat -117px 0px;
+		background: url(../https://i.niupic.com/images/2019/11/25/_1301.png) no-repeat -117px 0px;
 		background-size: 711%;
 	}
 	.icons ul li a.dribble {
-		background: url(../images/social-icons.png) no-repeat -158px 0px;
+		background: url(../https://i.niupic.com/images/2019/11/25/_1299.png) no-repeat -158px 0px;
 		width: 26px;
 		height: 28px;
 		background-size: 740%;
 	}
 	.icons ul li a.dribble:hover {
-		background: url(../images/social-iconshr.png) no-repeat -158px 0px;
+		background: url(../https://i.niupic.com/images/2019/11/25/_1301.png) no-repeat -158px 0px;
 		background-size: 740%;
 	}
 }
