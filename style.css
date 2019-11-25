@@ -12,7 +12,7 @@ html,body {
 }
 /*-- header --*/
 .head-bg{
-	background:url(https://i.niupic.com/images/2019/11/25/_408.jpg) no-repeat 0px 0px;
+	background:url(../https://i.niupic.com/images/2019/11/25/_408.jpg) no-repeat 0px 0px;
 	background-size: cover;
 	min-height: 700px;
 	position: relative;
@@ -79,7 +79,7 @@ html,body {
 	font-family: inherit;
 	font-size: 21px;
 	color: inherit;
-	background: url(https://i.niupic.com/images/2019/11/25/_937.png) no-repeat 157px 21px;
+	background: url(../https://i.niupic.com/images/2019/11/25/_937.png) no-repeat 157px 21px;
 	cursor: pointer;
 	padding: .5em 3em .5em 1em;
 	display: inline-block;
