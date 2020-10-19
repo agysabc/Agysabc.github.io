@@ -1,0 +1,13 @@
+@charset聽"utf-8";
+.as p {
+    float:left;//左浮动
+    flex:4;
+    height:40px;
+    width: 100%;
+	margin-top:1px;
+	margin-bottom:260px;
+    outline:none;
+    border:40px solid #483D8B;
+    box-sizing:border-box;
+    padding-left:10px;
+}
